@@ -1,0 +1,29 @@
+{
+    "name": "搜盘Link",
+    "description": "无VIP获取收盘里面的百度跳转链接",
+    "version": "1.0",
+    "manifest_version": 3,
+    "background": {
+        "service_worker": "background.js"
+    },
+    "permissions": [
+        "storage",
+        "activeTab",
+        "scripting"
+    ],
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+            "16": "./assets/pan.png",
+            "32": "./assets/pan.png",
+            "48": "./assets/pan.png",
+            "128": "./assets/pan.png"
+        }
+    },
+    "icons": {
+        "16": "./assets/pan.png",
+        "32": "./assets/pan.png",
+        "48": "./assets/pan.png",
+        "128": "./assets/pan.png"
+    }
+}
