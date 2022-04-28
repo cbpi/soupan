@@ -21,7 +21,7 @@ function setPageBackgroundColor() {
   chrome.storage.sync.get('color', ({ color }) => {
     //document.body.style.backgroundColor = color
     const el = document.getElementById('downloadHandler')
-    const link = `http://norefer.mimixiaoke.com/api/jump?target=${el.getAttribute(
+    const link = `http://redirect.xiaozhukuaipan.com/api/goto?target=${el.getAttribute(
       'data-downloadurl'
     )}`
     window.location.href = link
