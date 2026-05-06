@@ -401,4 +401,382 @@ GameFAQs 的资料提到，部分神器可提高某类能力出现/双选概率�
 
 > **新手用多纳泰罗或莱昂纳多，走水光/火光流；打 Boss 不贪刀，冲刺无敌躲技能，优先堆生命、护盾、Boss 伤害和工具充能。**
 
+
+
+
+下面给你一套 **拉斐尔火焰流具体技能搭配**，目标是：**Boss 战爆发高、持续灼烧稳定、贴脸输出不容易暴毙**。  
+拉斐尔适合火焰流，因为他本身偏高爆发，火焰能力又能强化持续伤害、Boss 伤害和暴击收益。 [\[sohu.com\]](https://www.sohu.com/a/825044536_122004016), [\[gametruth.com\]](https://www.gametruth.com/guides/teenage-mutant-ninja-turtles-splintered-fate-boss-guide/)
+
+***
+
+# 一、火焰流核心技能优先级
+
+## S 级：看到就优先拿
+
+### 1. Flame Strike / 火焰终结击
+
+效果：普攻连段最后一下产生火焰爆炸，对周围敌人造成火焰伤害。 [\[reddit.com\]](https://www.reddit.com/r/AppleArcade/comments/13iufk7/tmnt_splintered_fate_guide/)
+
+**为什么必拿：**
+
+*   拉斐尔经常贴脸打完整普攻连段。
+*   终结击爆炸可以同时清小怪和蹭 Boss。
+*   后续可以和暴击、火焰持续伤害联动。
+
+**实战用法：**
+
+> 冲刺贴近 → 普攻打完整连段 → 终结火焰爆炸 → 立刻冲刺离开。
+
+***
+
+### 2. Inferno / 炼狱灼烧
+
+效果：火焰伤害会给敌人附加 Inferno，持续造成火焰伤害。英文攻略提到 Inferno 可让火焰伤害持续生效，适合削 Boss 血量。 [\[gametruth.com\]](https://www.gametruth.com/guides/teenage-mutant-ninja-turtles-splintered-fate-boss-guide/), [\[reddit.com\]](https://www.reddit.com/r/AppleArcade/comments/13iufk7/tmnt_splintered_fate_guide/)
+
+**为什么必拿：**
+
+*   火焰流核心就是持续烧血。
+*   Boss 血厚时，灼烧收益很高。
+*   拉斐尔打一套后撤退，Boss 还会继续掉血。
+
+**实战用法：**
+
+> 不需要一直贪刀，只要让 Boss 身上保持燃烧状态即可。
+
+***
+
+### 3. Focus Fire / 集中火力
+
+效果：提高对 Boss 的火焰伤害。火焰能力本身就适合打高血量 Boss，Focus Fire 进一步强化 Boss 战输出。 [\[gametruth.com\]](https://www.gametruth.com/guides/teenage-mutant-ninja-turtles-splintered-fate-boss-guide/), [\[reddit.com\]](https://www.reddit.com/r/AppleArcade/comments/13iufk7/tmnt_splintered_fate_guide/)
+
+**为什么必拿：**
+
+*   通关难点主要在 Boss。
+*   拉斐尔火焰流成型后就是 Boss 杀手。
+*   比单纯小怪增伤更有价值。
+
+***
+
+### 4. Furious Attacks / 狂怒攻击
+
+效果：提高攻击暴击率。英文资料中提到火焰流可以搭配 Furious Attacks 提高攻击暴击率，进一步放大输出。 [\[gametruth.com\]](https://www.gametruth.com/guides/teenage-mutant-ninja-turtles-splintered-fate-boss-guide/), [\[reddit.com\]](https://www.reddit.com/r/AppleArcade/comments/13iufk7/tmnt_splintered_fate_guide/)
+
+**为什么必拿：**
+
+*   拉斐尔本身适合暴击爆发。
+*   火焰 + 暴击可以快速压低 Boss 血线。
+*   打施莱德、双 Boss 都很强。
+
+***
+
+## A 级：强烈推荐拿
+
+### 5. Blazing Inferno / 炽烈炼狱
+
+效果：增加 Inferno 持续时间。Reddit 技能资料中提到 Blazing Inferno 可以延长 Inferno 持续时间。 [\[reddit.com\]](https://www.reddit.com/r/AppleArcade/comments/13iufk7/tmnt_splintered_fate_guide/)
+
+**为什么推荐：**
+
+*   减少你补燃烧的压力。
+*   Boss 乱跑、你被迫躲招时，伤害不会断。
+*   和 Focus Fire、Inferno 联动非常强。
+
+***
+
+### 6. Flame Dash / 火焰冲刺
+
+效果：冲刺时或冲刺开始时对附近敌人造成火焰伤害。技能资料中提到火焰冲刺可在 Dash 时造成火焰伤害。 [\[reddit.com\]](https://www.reddit.com/r/AppleArcade/comments/13iufk7/tmnt_splintered_fate_guide/)
+
+**为什么推荐：**
+
+*   冲刺本来就是保命核心。
+*   边躲边上火，非常适合拉斐尔。
+*   打施莱德时可以不贪刀，用冲刺补伤害。
+
+**实战用法：**
+
+> Boss 放红圈/紫火 → 冲刺离开 → 经过 Boss 身边蹭火焰伤害。
+
+***
+
+### 7. Flame Abilities / 火焰特技与工具
+
+效果：特技和工具附带火焰伤害。资料中提到 Flame Abilities 可以让 Special 和 Tool 造成火焰伤害。 [\[reddit.com\]](https://www.reddit.com/r/AppleArcade/comments/13iufk7/tmnt_splintered_fate_guide/)
+
+**为什么推荐：**
+
+*   拉斐尔特技/工具一开，就能补火焰层数。
+*   配合火球、陨石、加伤工具效果很好。
+*   打双 Boss 时收益更高。
+
+***
+
+### 8. Rapid Fire / 速燃开场
+
+效果：战斗开始后一段时间提升伤害和移动速度。Reddit 技能资料中提到 Rapid Fire 可在战斗开始后提供伤害和移速增益。 [\[reddit.com\]](https://www.reddit.com/r/AppleArcade/comments/13iufk7/tmnt_splintered_fate_guide/)
+
+**为什么推荐：**
+
+*   小怪房开局清场快。
+*   Boss 开场可以先压一波血。
+*   移速提升也能增强生存。
+
+***
+
+## B 级：看情况拿
+
+### 9. Rage / 狂怒
+
+效果：低血量时提升伤害。资料中提到 Rage 可在生命低于一定比例时提高伤害。 [\[reddit.com\]](https://www.reddit.com/r/AppleArcade/comments/13iufk7/tmnt_splintered_fate_guide/)
+
+**适合谁：**
+
+*   熟悉 Boss 招式的玩家。
+*   喜欢极限输出的玩家。
+
+**新手建议：**
+
+如果你经常残血暴毙，不建议太依赖 Rage。它伤害高，但不如护盾、回血稳定。
+
+***
+
+# 二、拉斐尔火焰流完整技能搭配
+
+## 标准 Boss 杀手搭配
+
+### 必拿火焰技能
+
+1.  **Flame Strike / 火焰终结击**
+2.  **Inferno / 炼狱灼烧**
+3.  **Focus Fire / 对 Boss 火焰增伤**
+4.  **Furious Attacks / 攻击暴击率**
+5.  **Blazing Inferno / 灼烧持续时间**
+6.  **Flame Dash / 火焰冲刺**
+7.  **Flame Abilities / 特技工具附火**
+
+这套是最标准的火焰 Boss 流，兼顾普攻、冲刺、特技和工具伤害。 [\[gametruth.com\]](https://www.gametruth.com/guides/teenage-mutant-ninja-turtles-splintered-fate-boss-guide/), [\[reddit.com\]](https://www.reddit.com/r/AppleArcade/comments/13iufk7/tmnt_splintered_fate_guide/)
+
+***
+
+# 三、副系技能怎么配
+
+火焰流不要只拿火焰，最好搭一个副系。拉斐尔推荐两个方向：
+
+***
+
+## 方案 A：火焰 + 忍者
+
+这是 **最高输出路线**。
+
+### 忍者技能优先拿
+
+1.  **冲刺次数增加**
+2.  **冲刺后攻击增伤**
+3.  **攻击发射手里剑**
+4.  **手里剑破防**
+5.  **手里剑伤害提升**
+6.  **闪避后暴击率提升**
+
+社区攻略中提到忍者方向常见能力包括冲刺次数、冲刺后增伤、手里剑、手里剑破防、闪避后暴击率等，和拉斐尔火焰暴击流很搭。 [\[tieba.baidu.com\]](https://tieba.baidu.com/p/10345375072)
+
+### 适合场景
+
+*   你想快速击杀 Boss。
+*   你操作比较熟。
+*   你能熟练用冲刺躲技能。
+
+### 打法
+
+> 冲刺贴脸 → 普攻连段触发火焰终结击 → 手里剑/忍者效果补伤害 → Boss 起手就冲刺走。
+
+***
+
+## 方案 B：火焰 + 光明
+
+这是 **最稳通关路线**。
+
+### 光明技能优先拿
+
+1.  **冲刺获得护盾**
+2.  **护盾存在时增伤**
+3.  **正面效果持续时间增加**
+4.  **护盾/减伤类能力**
+5.  **最大生命相关能力**
+
+社区攻略中也推荐火焰 + 光明作为更简单稳定的打法，尤其适合靠冲刺和护盾提升容错。 [\[tieba.baidu.com\]](https://tieba.baidu.com/p/10345375072)
+
+### 适合场景
+
+*   你经常死在施莱德。
+*   你打双 Boss 容易乱。
+*   你想稳定第一次通关。
+
+### 打法
+
+> 靠冲刺刷新护盾 → 有盾时贴脸打一套 → 没盾就拉开等冲刺。
+
+***
+
+# 四、神器/装备搭配
+
+## 输出版
+
+### 神器推荐
+
+1.  **Foot-Medalion / 大脚帮徽章**  
+    提高火焰能力选择概率，是火焰流核心神器。 [\[gamefaqs.g...mespot.com\]](https://gamefaqs.gamespot.com/ps4/531170-teenage-mutant-ninja-turtles-splintered-fate/faqs/82437)
+
+2.  **Tessen / 铁扇**  
+    提高忍者能力选择概率，适合火焰 + 忍者输出路线。 [\[gamefaqs.g...mespot.com\]](https://gamefaqs.gamespot.com/ps4/531170-teenage-mutant-ninja-turtles-splintered-fate/faqs/82437)
+
+3.  **Mystic Seal / 神秘印记**  
+    提高星界能力选择概率，可走黑暗或光明补强路线。 [\[gamefaqs.g...mespot.com\]](https://gamefaqs.gamespot.com/ps4/531170-teenage-mutant-ninja-turtles-splintered-fate/faqs/82437)
+
+***
+
+## 工具推荐
+
+### S 级工具
+
+*   **硬化壳 / 无敌壳**：贴脸输出时保命。
+*   **闪避烟雾弹**：脱离 Boss 连招。
+*   **加伤果汁**：Boss 半血后开爆发。
+*   **火球 / 陨石**：补远程火焰伤害。
+
+社区攻略里也推荐拉斐尔使用无敌硬化壳、闪避烟雾弹、加伤果汁、火球、陨石等工具。 [\[tieba.baidu.com\]](https://tieba.baidu.com/p/10345375072)
+
+***
+
+# 五、火焰流技能优先级排序
+
+如果一局里你只能选有限技能，按这个顺序拿：
+
+```text
+1. Inferno / 炼狱灼烧
+2. Flame Strike / 火焰终结击
+3. Focus Fire / Boss 火焰增伤
+4. Furious Attacks / 攻击暴击率
+5. Blazing Inferno / 灼烧延长
+6. Flame Dash / 火焰冲刺
+7. Flame Abilities / 特技工具附火
+8. Rapid Fire / 开场增伤移速
+9. Rage / 低血量增伤
+```
+
+***
+
+# 六、打 Boss 的技能循环
+
+## 普通 Boss
+
+```text
+冲刺靠近
+→ 普攻打完整连段
+→ 触发 Flame Strike
+→ Boss 身上挂 Inferno
+→ 放特技/工具补火焰
+→ Boss 起手攻击时冲刺离开
+→ 等后摇再进场
+```
+
+***
+
+## 双 Boss
+
+```text
+先集中打一个
+→ 用 Flame Strike 和 Flame Abilities 同时蹭两个 Boss
+→ 火球/陨石等工具等两只靠近再放
+→ 不要站在两个 Boss 中间
+→ 保持 Inferno 持续燃烧
+```
+
+***
+
+## 施莱德
+
+```text
+看到地面红火/紫火：立刻冲刺走
+施莱德普攻结束：冲刺到侧面打一套
+不要站正面
+不要贪最后一刀
+用 Inferno 慢慢烧，不急着硬拼
+```
+
+社区攻略也强调，打 Boss 时遇到地面红火、紫火不要贪近战伤害，应该冲刺远离；Boss 普攻时再冲刺到侧面输出。 [\[tieba.baidu.com\]](https://tieba.baidu.com/p/10345375072)
+
+***
+
+# 七、最终推荐搭配
+
+## 高伤害毕业版
+
+```text
+角色：拉斐尔
+
+主系：火焰
+副系：忍者
+补强：黑暗/星界
+
+核心技能：
+Inferno
+Flame Strike
+Focus Fire
+Furious Attacks
+Blazing Inferno
+Flame Dash
+Flame Abilities
+
+神器：
+Foot-Medalion
+Tessen
+Mystic Seal
+
+工具：
+硬化壳
+闪避烟雾弹
+加伤果汁
+火球/陨石
+```
+
+***
+
+## 稳定通关版
+
+```text
+角色：拉斐尔
+
+主系：火焰
+副系：光明
+
+核心技能：
+Inferno
+Flame Strike
+Focus Fire
+Blazing Inferno
+Flame Dash
+冲刺护盾
+护盾增伤
+正面效果持续时间
+
+神器：
+Foot-Medalion
+Mystic Seal
+光明/星界相关神器
+
+工具：
+硬化壳
+烟雾弹
+回血/护盾工具
+加伤果汁
+```
+
+***
+
+## 简单结论
+
+**拉斐尔火焰流最关键的 4 个技能是：Inferno、Flame Strike、Focus Fire、Furious Attacks。**  
+想打得快，就副搭 **忍者**；想稳通关，就副搭 **光明**。打法上记住：**挂火、打一套、冲刺走，别站桩。**
+
+
 如果你告诉我你现在卡在哪个 Boss、用哪只神龟、常拿什么能力，我可以按你的情况给你配一套更具体的通关 build。
